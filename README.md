@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋 I'm Miriam
 
-<!--
-**MiriamBayla/miriambayla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Software Developer | Lifelong Learner**
 
-Here are some ideas to get you started:
+I'm a self-motivated developer who loves turning ideas into real, useful applications. I enjoy exploring new technologies, solving problems, and building projects that make a difference.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 Completed Harvard's CS50x and CS50AI courses.
+- 💡 Passionate about learning, problem-solving, and creating software.
+- 🛠️ I enjoy building projects from scratch and bringing ideas to life.
+- 🌱 Always learning and exploring new technologies.
+
+### 💻 Tech Stack
+
+**Languages:** Python, JavaScript, C, Java, HTML, CSS
+
+**Frameworks & Tools:** Flask, React, Git, GitHub, SQLite
+
+### 🎯 My Goal
+To keep growing as a developer, build meaningful projects, and turn creative ideas into software that solves real problems.
+
+---
+
+⭐ Thanks for visiting my profile!
